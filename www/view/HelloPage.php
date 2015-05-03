@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<h1 align="center"> Регистрация завершена! <?php ?></h1>
+<h1 align="center"> Регистрация завершена! Но не работает))XX <?php ?></h1>
 
 <script type="text/javascript">
     setTimeout('location.replace("../index.php")', 5000);</script>
